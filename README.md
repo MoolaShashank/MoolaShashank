@@ -1,12 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Moola Shashank 👋</h1>
   <a href="https://github.com/MoolaShashank">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&pause=2000&color=E5B80B&center=true&vCenter=true&width=800&height=60&lines=Software+Developer;Short+Film+Director;Bridging+Algorithms+%26+Cinematography" alt="Cinematic Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=E5B80B&center=true&vCenter=true&width=800&height=60&cursor=%E2%96%88&lines=%3E+.%2Fmoola_shashank;%3E+B.Tech+Student+%26+Developer;%3E+Directing+'Gahanam';%3E+Writing+Code.+Directing+Cinema." alt="Cinematic Terminal Animation" />
   </a>
 </div>
 <br>
-
-# Hi, I'm Moola Shashank 👋
 
 ### B.Tech Student at SRM Institute of Science and Technology | Developer & Short Film Director
 
