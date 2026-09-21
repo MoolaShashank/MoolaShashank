@@ -25,13 +25,6 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
 </div>
 <br>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MoolaShashank&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="Moola Shashank Trophies" />
-  </a>
-</div>
-<br>
-
 ## 🛠️ Tech Stack & Tools
 
 **Languages**
@@ -58,12 +51,6 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
 * **Computer Science:** Mastering Data Structures, linked list pointer manipulations, and Big-O proofs.
 * **Open Source:** Preparing for programs like GSoC and the LFX Mentorship.
 * **Filmmaking:** Directing, screenwriting, and managing post-production workflows for short films like my investigative thriller, *Gahanam*.
-
-## 📈 GitHub Stats
-<!-- Dynamic stat cards can be added here next -->
-[![Moola Shashank's GitHub stats](https://github-stats-extended.vercel.app/api?username=MoolaShashank&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MoolaShashank&layout=compact&theme=radical)](https://github.readme-stats.vercel.app/api/top-langs/?username=MoolaShashank)
 
 ## 📈 GitHub Stats
 
