@@ -64,3 +64,19 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
 [![Moola Shashank's GitHub stats](https://github-stats-extended.vercel.app/api?username=MoolaShashank&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MoolaShashank&layout=compact&theme=radical)](https://github.readme-stats.vercel.app/api/top-langs/?username=MoolaShashank)
+
+## 📈 GitHub Stats
+
+[![Moola Shashank's GitHub stats](https://github-stats-extended.vercel.app/api?username=MoolaShashank&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MoolaShashank&layout=compact&theme=radical)](https://github.readme-stats.vercel.app/api/top-langs/?username=MoolaShashank)
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoolaShashank/MoolaShashank/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoolaShashank/MoolaShashank/output/github-contribution-grid-snake.svg">
+    <img alt="Moola Shashank's Activity Snake" src="https://raw.githubusercontent.com/MoolaShashank/MoolaShashank/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
