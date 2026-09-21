@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://github.com/MoolaShashank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2EA043&center=true&vCenter=true&width=800&height=100&lines=B.Tech+Student+%26+Developer;Short+Film+Director;Bridging+Algorithms+%26+Cinematography" alt="Typing SVG Banner" />
+  </a>
+</div>
+<br>
+
 # Hi, I'm Moola Shashank 👋
 
 ### B.Tech Student at SRM Institute of Science and Technology | Developer & Short Film Director
