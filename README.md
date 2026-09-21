@@ -79,6 +79,11 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
 
 <br>
 
+## 🎬 Latest Cinematic Work
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+<br>
+
 ## 🚀 Current Focus
 * **Computer Science:** Mastering Data Structures, linked list pointer manipulations, and Big-O proofs.
 * **Open Source:** Preparing for programs like GSoC and the LFX Mentorship.
