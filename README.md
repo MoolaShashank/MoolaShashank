@@ -5,7 +5,7 @@
 I'm a blend of technical problem-solving with cinematic storytelling. When I am not writing algorithms or preparing for open-source contributions, I am likely directing short films, colour grading, or designing title animations.
 
 <div align="left">
-  <a href="mailto:shashankfeb6@gmail.com.com">
+  <a href="mailto:shashankfeb6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/moola-shashank-2a16532b4/">
