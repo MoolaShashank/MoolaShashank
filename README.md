@@ -16,3 +16,6 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
 
 ## 📈 GitHub Stats
 <!-- Dynamic stat cards can be added here next -->
+[![Moola Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoolaShashank&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoolaShashank&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=MoolaShashank)
