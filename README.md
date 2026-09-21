@@ -47,16 +47,52 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
 ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
+**Developer Tools & Environment**
+<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br>
+
+## 📌 Featured Work
+
+| Project | Focus Area | Tech / Workflow | Status |
+| :--- | :--- | :--- | :--- |
+| **Gahanam** | Narrative Direction & Post-Production | Premiere Pro, DaVinci Resolve | In Post |
+| **Data Structures & Algorithms** | Core Computer Science | C++, Big-O Analysis, Lists | Active |
+| **Colab Data Pipelines** | Numerical Computing & JSON Processing | Python, NumPy, Pandas | Active |
+
+<br>
+
 ## 🚀 Current Focus
 * **Computer Science:** Mastering Data Structures, linked list pointer manipulations, and Big-O proofs.
 * **Open Source:** Preparing for programs like GSoC and the LFX Mentorship.
 * **Filmmaking:** Directing, screenwriting, and managing post-production workflows for short films like my investigative thriller, *Gahanam*.
 
+<br>
+
+<details>
+  <summary><b>🔍 View Extended Post-Production & Technical Workflow</b></summary>
+  <br>
+  <ul>
+    <li><b>Color Grading Pipeline:</b> Rec.709 color management and node trees in DaVinci Resolve.</li>
+    <li><b>Title Animations:</b> Typography motion curves and kinetic title sequences in After Effects.</li>
+    <li><b>Algorithmic Practice:</b> Sparse matrix representations, circular linked lists, and time complexity proofs.</li>
+  </ul>
+</details>
+
+<br>
+
 ## 📈 GitHub Stats
 
-[![Moola Shashank's GitHub stats](https://github-stats-extended.vercel.app/api?username=MoolaShashank&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MoolaShashank&layout=compact&theme=radical)](https://github.readme-stats.vercel.app/api/top-langs/?username=MoolaShashank)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=MoolaShashank&show_icons=true&theme=radical" height="175" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MoolaShashank&layout=compact&theme=radical" height="175" alt="Top Languages" />
+</div>
 
 <br>
 
