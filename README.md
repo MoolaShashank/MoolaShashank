@@ -26,9 +26,26 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
 <br>
 
 ## 🛠️ Tech Stack & Tools
-* **Languages:** C, C++, Python, Java
-* **Libraries:** NumPy, Pandas, MatPlotLib, Django
-* **Creative Suite:** Adobe Premiere Pro, Adobe After Effects, DaVinci Resolve
+
+**Languages**
+<br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+
+**Libraries**
+<br>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+**Creative Suite**
+<br>
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 ## 🚀 Current Focus
 * **Computer Science:** Mastering Data Structures, linked list pointer manipulations, and Big-O proofs.
