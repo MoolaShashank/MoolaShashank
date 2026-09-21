@@ -6,13 +6,11 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="divider" />
 </div>
 
-&nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=MoolaShashank&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+> *"Logic dictates the architecture; cinematography dictates the experience. I build systems that perform and direct stories that resonate."*
 
-  
 ### B.Tech Student at SRM Institute of Science and Technology | Developer & Short Film Director
 
 I'm a blend of technical problem-solving with cinematic storytelling. When I am not writing algorithms or preparing for open-source contributions, I am likely directing short films, colour grading, or designing title animations.
@@ -29,52 +27,38 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
   <a href="https://www.youtube.com/@Mitravahinimotionpictures">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=MoolaShashank&label=Profile%20Views&color=E5B80B&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="divider" />
 </div>
 
 ## 🛠️ Tech Stack & Tools
 
 **Languages**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-</div>
-
+<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 **Libraries**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-</div>
-
+<br>
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 **Creative Suite**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-</div>
-
+<br>
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 **Developer Tools & Environment**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-</div>
-
+<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -82,7 +66,7 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="divider" />
 </div>
 
 ## 📌 Featured Work
@@ -93,27 +77,18 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
 | **Data Structures & Algorithms** | Core Computer Science | C++, Big-O Analysis, Lists | Active |
 | **Colab Data Pipelines** | Numerical Computing & JSON Processing | Python, NumPy, Pandas | Active |
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-</div>
-
+<br>
 
 ## 🚀 Current Focus
 * **Computer Science:** Mastering Data Structures, linked list pointer manipulations, and Big-O proofs.
 * **Open Source:** Preparing for programs like GSoC and the LFX Mentorship.
 * **Filmmaking:** Directing, screenwriting, and managing post-production workflows for short films like my investigative thriller, *Gahanam*.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-</div>
+<br>
 
 <details>
   <summary><b>🔍 View Extended Post-Production & Technical Workflow</b></summary>
- 
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-</div>
-
+  <br>
   <ul>
     <li><b>Color Grading Pipeline:</b> Rec.709 color management and node trees in DaVinci Resolve.</li>
     <li><b>Title Animations:</b> Typography motion curves and kinetic title sequences in After Effects.</li>
@@ -122,7 +97,7 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
 </details>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="divider" />
 </div>
 
 ## 📈 GitHub Stats
@@ -133,9 +108,7 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MoolaShashank&layout=compact&theme=radical" height="175" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-</div>
+<br>
 
 <div align="center">
   <picture>
