@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Moola Shashank 👋</h1>
   <a href="https://github.com/MoolaShashank">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&pause=1500&color=00FF41&center=true&vCenter=true&width=800&height=60&cursor=%E2%96%88&lines=%3E+.%2Fmoola_shashank.exe;%3E+B.Tech+Student+%40+SRM+Institute;%3E+Compiling+Data+Structures...;%3E+Directing+'Gahanam'...;%3E+Crafting+Code.+Directing+Cinema." alt="Terminal Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&pause=2000&color=E5B80B&center=true&vCenter=true&width=800&height=60&lines=Software+Developer;Short+Film+Director;Bridging+Algorithms+%26+Cinematography" alt="Cinematic Typing Animation" />
   </a>
 </div>
 <br>
