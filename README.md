@@ -7,10 +7,12 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
 <div align="left">
   <a href="mailto:shashankfeb6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a> <code>shashankfeb6@gmail.com</code>
+  </a>
+  &nbsp; shashankfeb6@gmail.com &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/moola-shashank-2a16532b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@Mitravahinimotionpictures">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
