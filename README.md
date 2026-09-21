@@ -5,7 +5,10 @@
   </a>
 </div>
 <br>
+&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=MoolaShashank&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
+  
 ### B.Tech Student at SRM Institute of Science and Technology | Developer & Short Film Director
 
 I'm a blend of technical problem-solving with cinematic storytelling. When I am not writing algorithms or preparing for open-source contributions, I am likely directing short films, colour grading, or designing title animations.
