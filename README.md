@@ -25,6 +25,13 @@ I'm a blend of technical problem-solving with cinematic storytelling. When I am 
 </div>
 <br>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MoolaShashank&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="Moola Shashank Trophies" />
+  </a>
+</div>
+<br>
+
 ## 🛠️ Tech Stack & Tools
 
 **Languages**
